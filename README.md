@@ -1,0 +1,1 @@
+Infrastructure as code for examples in the [Serverless Architecures on AWS](https://www.manning.com/books/serverless-architectures-on-aws) book.
